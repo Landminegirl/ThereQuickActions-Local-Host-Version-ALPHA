@@ -4,6 +4,7 @@ alpha build of a local host option so you dont need to download any exes &lt;3
 works in any browser!
 
 # INSTALL
+Download ThereQuickActionsLocalHost.zip
 1. Unzip folder
 2. Click CLICK TO LAUNCH.html
 3. Copy local file address
