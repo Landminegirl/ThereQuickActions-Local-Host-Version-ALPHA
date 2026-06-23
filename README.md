@@ -1,3 +1,6 @@
+# JOIN THE DISCORD FOR ALL UPDATES TO TOOLS https://discord.gg/UZFnJvHspC
+
+
 # ThereQuickActions-Local-Host-Version-ALPHA
 alpha build of a local host option so you dont need to download any exes &lt;3
 
